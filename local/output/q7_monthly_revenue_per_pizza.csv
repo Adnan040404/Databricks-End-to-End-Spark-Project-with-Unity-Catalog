@@ -1,0 +1,385 @@
+Pizza_Name,Order_Month,Total_Sales
+The Barbecue Chicken Pizza,1,3770.25
+The Thai Chicken Pizza,1,3657.25
+The California Chicken Pizza,1,3471.50
+The Pepperoni Pizza,1,3001.25
+The Sicilian Pizza,1,2987.75
+The Italian Supreme Pizza,1,2954.75
+The Classic Deluxe Pizza,1,2941.50
+The Spicy Italian Pizza,1,2762.00
+The Four Cheese Pizza,1,2671.65
+The Five Cheese Pizza,1,2553.00
+The Greek Pizza,1,2539.40
+The Southwest Chicken Pizza,1,2495.50
+The Hawaiian Pizza,1,2442.75
+The Mexicana Pizza,1,2358.25
+The Pepper Salami Pizza,1,2342.25
+The Napolitana Pizza,1,2306.50
+The Vegetables + Vegetables Pizza,1,2289.50
+The Prosciutto and Arugula Pizza,1,2218.00
+The Italian Capocollo Pizza,1,2153.00
+The Spinach and Feta Pizza,1,2047.25
+The Big Meat Pizza,1,1800.00
+The Italian Vegetables Pizza,1,1653.50
+The Chicken Alfredo Pizza,1,1456.50
+"The Pepperoni, Mushroom, and Peppers Pizza",1,1435.00
+The Spinach Supreme Pizza,1,1357.00
+The Chicken Pesto Pizza,1,1337.75
+The Soppressata Pizza,1,1323.50
+The Spinach Pesto Pizza,1,1269.25
+The Calabrese Pizza,1,1156.75
+The Mediterranean Pizza,1,1147.50
+The Green Garden Pizza,1,1065.50
+The Brie Carre Pizza,1,827.75
+The California Chicken Pizza,2,3537.00
+The Barbecue Chicken Pizza,2,3416.75
+The Thai Chicken Pizza,2,3009.25
+The Southwest Chicken Pizza,2,2804.25
+The Four Cheese Pizza,2,2734.40
+The Classic Deluxe Pizza,2,2705.00
+The Spicy Italian Pizza,2,2646.25
+The Hawaiian Pizza,2,2633.00
+The Sicilian Pizza,2,2560.00
+The Italian Supreme Pizza,2,2555.25
+The Pepperoni Pizza,2,2554.25
+The Vegetables + Vegetables Pizza,2,2283.25
+The Greek Pizza,2,2112.35
+The Five Cheese Pizza,2,2090.50
+The Italian Capocollo Pizza,2,2079.00
+The Prosciutto and Arugula Pizza,2,2005.75
+The Mexicana Pizza,2,1915.50
+The Napolitana Pizza,2,1910.50
+The Pepper Salami Pizza,2,1862.25
+The Big Meat Pizza,2,1812.00
+The Spinach and Feta Pizza,2,1695.25
+"The Pepperoni, Mushroom, and Peppers Pizza",2,1530.00
+The Calabrese Pizza,2,1461.50
+The Chicken Pesto Pizza,2,1433.50
+The Italian Vegetables Pizza,2,1396.50
+The Spinach Supreme Pizza,2,1298.00
+The Soppressata Pizza,2,1289.25
+The Chicken Alfredo Pizza,2,1267.50
+The Green Garden Pizza,2,1226.50
+The Spinach Pesto Pizza,2,1211.00
+The Mediterranean Pizza,2,1083.50
+The Brie Carre Pizza,2,1040.60
+The Barbecue Chicken Pizza,3,4049.25
+The Thai Chicken Pizza,3,3843.75
+The California Chicken Pizza,3,3457.50
+The Spicy Italian Pizza,3,3205.75
+The Classic Deluxe Pizza,3,3168.00
+The Southwest Chicken Pizza,3,3155.25
+The Hawaiian Pizza,3,2878.50
+The Four Cheese Pizza,3,2811.35
+The Italian Supreme Pizza,3,2665.00
+The Sicilian Pizza,3,2442.75
+The Mexicana Pizza,3,2388.75
+The Pepperoni Pizza,3,2323.75
+The Five Cheese Pizza,3,2312.50
+The Vegetables + Vegetables Pizza,3,2201.75
+The Greek Pizza,3,2189.85
+The Pepper Salami Pizza,3,2184.50
+The Spinach and Feta Pizza,3,2146.25
+The Prosciutto and Arugula Pizza,3,2137.25
+The Big Meat Pizza,3,2112.00
+The Italian Capocollo Pizza,3,2084.50
+The Chicken Alfredo Pizza,3,1779.00
+The Napolitana Pizza,3,1774.00
+"The Pepperoni, Mushroom, and Peppers Pizza",3,1586.00
+The Spinach Pesto Pizza,3,1513.75
+The Italian Vegetables Pizza,3,1397.25
+The Chicken Pesto Pizza,3,1340.75
+The Soppressata Pizza,3,1335.00
+The Mediterranean Pizza,3,1301.00
+The Green Garden Pizza,3,1262.75
+The Spinach Supreme Pizza,3,1153.25
+The Calabrese Pizza,3,1108.25
+The Brie Carre Pizza,3,1087.90
+The Barbecue Chicken Pizza,4,3788.50
+The Thai Chicken Pizza,4,3686.00
+The Classic Deluxe Pizza,4,3342.50
+The Southwest Chicken Pizza,4,3096.25
+The California Chicken Pizza,4,3092.00
+The Greek Pizza,4,3088.30
+The Italian Supreme Pizza,4,3079.50
+The Hawaiian Pizza,4,2867.75
+The Spicy Italian Pizza,4,2758.25
+The Four Cheese Pizza,4,2744.70
+The Sicilian Pizza,4,2434.75
+The Mexicana Pizza,4,2396.00
+The Pepper Salami Pizza,4,2362.75
+The Italian Capocollo Pizza,4,2260.00
+The Pepperoni Pizza,4,2112.75
+The Vegetables + Vegetables Pizza,4,2095.25
+The Five Cheese Pizza,4,1979.50
+The Napolitana Pizza,4,1929.50
+The Spinach and Feta Pizza,4,1878.25
+The Prosciutto and Arugula Pizza,4,1789.25
+The Big Meat Pizza,4,1668.00
+The Soppressata Pizza,4,1638.50
+The Chicken Pesto Pizza,4,1550.75
+"The Pepperoni, Mushroom, and Peppers Pizza",4,1548.00
+The Spinach Supreme Pizza,4,1443.00
+The Italian Vegetables Pizza,4,1404.75
+The Calabrese Pizza,4,1380.75
+The Chicken Alfredo Pizza,4,1259.50
+The Mediterranean Pizza,4,1246.00
+The Green Garden Pizza,4,1145.75
+The Spinach Pesto Pizza,4,913.25
+The Brie Carre Pizza,4,756.80
+The Barbecue Chicken Pizza,5,3953.50
+The California Chicken Pizza,5,3561.25
+The Thai Chicken Pizza,5,3558.25
+The Classic Deluxe Pizza,5,3444.00
+The Spicy Italian Pizza,5,3430.75
+The Italian Supreme Pizza,5,3142.25
+The Four Cheese Pizza,5,3052.50
+The Pepperoni Pizza,5,2998.75
+The Southwest Chicken Pizza,5,2860.25
+The Hawaiian Pizza,5,2688.00
+The Greek Pizza,5,2488.35
+The Sicilian Pizza,5,2433.50
+The Five Cheese Pizza,5,2294.00
+The Big Meat Pizza,5,2280.00
+The Spinach and Feta Pizza,5,2231.75
+The Pepper Salami Pizza,5,2056.00
+The Italian Capocollo Pizza,5,2018.50
+The Prosciutto and Arugula Pizza,5,1886.50
+The Mexicana Pizza,5,1879.75
+The Napolitana Pizza,5,1846.50
+The Vegetables + Vegetables Pizza,5,1719.00
+"The Pepperoni, Mushroom, and Peppers Pizza",5,1659.00
+The Spinach Pesto Pizza,5,1551.25
+The Soppressata Pizza,5,1505.00
+The Mediterranean Pizza,5,1500.00
+The Chicken Alfredo Pizza,5,1439.75
+The Italian Vegetables Pizza,5,1425.25
+The Calabrese Pizza,5,1393.00
+The Spinach Supreme Pizza,5,1380.75
+The Chicken Pesto Pizza,5,1379.25
+The Green Garden Pizza,5,1258.25
+The Brie Carre Pizza,5,1087.90
+The California Chicken Pizza,6,3870.50
+The Thai Chicken Pizza,6,3505.00
+The Barbecue Chicken Pizza,6,3377.50
+The Classic Deluxe Pizza,6,3029.00
+The Spicy Italian Pizza,6,2985.75
+The Italian Supreme Pizza,6,2958.75
+The Sicilian Pizza,6,2653.75
+The Southwest Chicken Pizza,6,2584.00
+The Hawaiian Pizza,6,2563.75
+The Four Cheese Pizza,6,2515.80
+The Greek Pizza,6,2394.90
+The Five Cheese Pizza,6,2294.00
+The Napolitana Pizza,6,2291.50
+The Pepper Salami Pizza,6,2266.50
+The Italian Capocollo Pizza,6,2247.50
+The Mexicana Pizza,6,2230.75
+The Pepperoni Pizza,6,2055.25
+The Vegetables + Vegetables Pizza,6,1973.50
+The Spinach and Feta Pizza,6,1881.00
+The Prosciutto and Arugula Pizza,6,1876.75
+"The Pepperoni, Mushroom, and Peppers Pizza",6,1786.00
+The Big Meat Pizza,6,1668.00
+The Calabrese Pizza,6,1526.50
+The Soppressata Pizza,6,1526.50
+The Spinach Pesto Pizza,6,1485.50
+The Chicken Alfredo Pizza,6,1410.25
+The Spinach Supreme Pizza,6,1356.75
+The Chicken Pesto Pizza,6,1339.25
+The Green Garden Pizza,6,1230.50
+The Mediterranean Pizza,6,1214.75
+The Italian Vegetables Pizza,6,1184.75
+The Brie Carre Pizza,6,946.00
+The Thai Chicken Pizza,7,4073.75
+The Barbecue Chicken Pizza,7,3784.25
+The Classic Deluxe Pizza,7,3554.50
+The Spicy Italian Pizza,7,3459.00
+The California Chicken Pizza,7,3252.25
+The Southwest Chicken Pizza,7,3241.50
+The Pepperoni Pizza,7,2819.25
+The Four Cheese Pizza,7,2770.30
+The Mexicana Pizza,7,2643.25
+The Hawaiian Pizza,7,2620.25
+The Five Cheese Pizza,7,2571.50
+The Italian Supreme Pizza,7,2540.50
+The Sicilian Pizza,7,2473.75
+The Greek Pizza,7,2425.00
+The Italian Capocollo Pizza,7,2301.50
+The Vegetables + Vegetables Pizza,7,2298.25
+The Big Meat Pizza,7,2220.00
+The Pepper Salami Pizza,7,2213.50
+The Prosciutto and Arugula Pizza,7,2211.75
+The Spinach and Feta Pizza,7,2059.00
+The Napolitana Pizza,7,2023.50
+"The Pepperoni, Mushroom, and Peppers Pizza",7,1689.00
+The Soppressata Pizza,7,1476.00
+The Mediterranean Pizza,7,1453.25
+The Calabrese Pizza,7,1428.75
+The Chicken Pesto Pizza,7,1427.75
+The Green Garden Pizza,7,1426.50
+The Spinach Supreme Pizza,7,1373.00
+The Spinach Pesto Pizza,7,1261.75
+The Chicken Alfredo Pizza,7,1222.75
+The Italian Vegetables Pizza,7,1202.00
+The Brie Carre Pizza,7,1040.60
+The California Chicken Pizza,8,3977.25
+The Barbecue Chicken Pizza,8,3300.25
+The Thai Chicken Pizza,8,3272.50
+The Classic Deluxe Pizza,8,3187.00
+The Southwest Chicken Pizza,8,3019.50
+The Italian Supreme Pizza,8,3002.50
+The Spicy Italian Pizza,8,2795.50
+The Hawaiian Pizza,8,2678.75
+The Pepperoni Pizza,8,2637.75
+The Sicilian Pizza,8,2548.00
+The Four Cheese Pizza,8,2344.65
+The Spinach and Feta Pizza,8,2319.00
+The Napolitana Pizza,8,2277.50
+The Greek Pizza,8,2244.40
+The Mexicana Pizza,8,2234.00
+The Five Cheese Pizza,8,2090.50
+The Italian Capocollo Pizza,8,2084.50
+The Prosciutto and Arugula Pizza,8,1956.00
+The Vegetables + Vegetables Pizza,8,1923.00
+The Big Meat Pizza,8,1920.00
+The Pepper Salami Pizza,8,1894.25
+"The Pepperoni, Mushroom, and Peppers Pizza",8,1792.00
+The Chicken Alfredo Pizza,8,1402.25
+The Chicken Pesto Pizza,8,1380.75
+The Spinach Pesto Pizza,8,1377.00
+The Soppressata Pizza,8,1335.00
+The Italian Vegetables Pizza,8,1295.50
+The Spinach Supreme Pizza,8,1283.00
+The Mediterranean Pizza,8,1276.75
+The Calabrese Pizza,8,1262.25
+The Green Garden Pizza,8,1150.00
+The Brie Carre Pizza,8,1016.95
+The Thai Chicken Pizza,9,3736.25
+The Barbecue Chicken Pizza,9,3380.00
+The Classic Deluxe Pizza,9,3257.50
+The California Chicken Pizza,9,3088.75
+The Southwest Chicken Pizza,9,2950.25
+The Hawaiian Pizza,9,2616.25
+The Italian Supreme Pizza,9,2488.75
+The Four Cheese Pizza,9,2481.85
+The Pepperoni Pizza,9,2466.75
+The Spicy Italian Pizza,9,2372.50
+The Sicilian Pizza,9,2260.00
+The Greek Pizza,9,2134.35
+The Five Cheese Pizza,9,2127.50
+The Napolitana Pizza,9,1986.50
+The Italian Capocollo Pizza,9,1981.00
+The Prosciutto and Arugula Pizza,9,1871.25
+The Pepper Salami Pizza,9,1816.25
+The Mexicana Pizza,9,1807.00
+The Spinach and Feta Pizza,9,1756.00
+The Vegetables + Vegetables Pizza,9,1739.75
+The Big Meat Pizza,9,1704.00
+"The Pepperoni, Mushroom, and Peppers Pizza",9,1686.50
+The Chicken Pesto Pizza,9,1483.00
+The Spinach Pesto Pizza,9,1409.25
+The Chicken Alfredo Pizza,9,1400.75
+The Mediterranean Pizza,9,1268.25
+The Green Garden Pizza,9,1254.00
+The Italian Vegetables Pizza,9,1169.00
+The Brie Carre Pizza,9,1158.85
+The Spinach Supreme Pizza,9,1116.25
+The Soppressata Pizza,9,1107.25
+The Calabrese Pizza,9,1104.50
+The Thai Chicken Pizza,10,3503.25
+The Classic Deluxe Pizza,10,3075.50
+The Barbecue Chicken Pizza,10,2946.00
+The Southwest Chicken Pizza,10,2891.25
+The Four Cheese Pizza,10,2870.35
+The California Chicken Pizza,10,2833.50
+The Spicy Italian Pizza,10,2707.25
+The Sicilian Pizza,10,2678.00
+The Hawaiian Pizza,10,2514.75
+The Pepperoni Pizza,10,2471.00
+The Italian Supreme Pizza,10,2446.50
+The Prosciutto and Arugula Pizza,10,2333.25
+The Pepper Salami Pizza,10,2238.25
+The Greek Pizza,10,2127.90
+The Napolitana Pizza,10,2121.00
+The Five Cheese Pizza,10,2090.50
+The Mexicana Pizza,10,2024.25
+The Italian Capocollo Pizza,10,1813.00
+The Big Meat Pizza,10,1812.00
+The Vegetables + Vegetables Pizza,10,1584.75
+The Soppressata Pizza,10,1488.50
+"The Pepperoni, Mushroom, and Peppers Pizza",10,1474.00
+The Spinach and Feta Pizza,10,1435.00
+The Calabrese Pizza,10,1372.25
+The Chicken Alfredo Pizza,10,1364.00
+The Italian Vegetables Pizza,10,1337.50
+The Chicken Pesto Pizza,10,1254.00
+The Spinach Supreme Pizza,10,1207.00
+The Green Garden Pizza,10,1181.50
+The Mediterranean Pizza,10,1073.75
+The Spinach Pesto Pizza,10,953.75
+The Brie Carre Pizza,10,804.10
+The Barbecue Chicken Pizza,11,3881.75
+The Thai Chicken Pizza,11,3776.00
+The California Chicken Pizza,11,3692.75
+The Classic Deluxe Pizza,11,3379.50
+The Italian Supreme Pizza,11,3051.00
+The Southwest Chicken Pizza,11,3022.00
+The Spicy Italian Pizza,11,2999.50
+The Hawaiian Pizza,11,2952.75
+The Sicilian Pizza,11,2896.50
+The Mexicana Pizza,11,2872.50
+The Greek Pizza,11,2599.85
+The Four Cheese Pizza,11,2536.95
+The Pepperoni Pizza,11,2428.00
+The Pepper Salami Pizza,11,2227.00
+The Big Meat Pizza,11,2088.00
+The Prosciutto and Arugula Pizza,11,2059.75
+The Five Cheese Pizza,11,2016.50
+The Napolitana Pizza,11,1953.50
+The Italian Capocollo Pizza,11,1949.50
+The Vegetables + Vegetables Pizza,11,1936.25
+The Spinach and Feta Pizza,11,1925.25
+The Chicken Alfredo Pizza,11,1625.75
+The Calabrese Pizza,11,1595.50
+The Spinach Pesto Pizza,11,1481.00
+The Mediterranean Pizza,11,1432.25
+The Chicken Pesto Pizza,11,1401.50
+The Soppressata Pizza,11,1243.75
+"The Pepperoni, Mushroom, and Peppers Pizza",11,1234.50
+The Italian Vegetables Pizza,11,1170.00
+The Spinach Supreme Pizza,11,1136.50
+The Brie Carre Pizza,11,993.30
+The Green Garden Pizza,11,836.50
+The Thai Chicken Pizza,12,3813.00
+The California Chicken Pizza,12,3575.25
+The Barbecue Chicken Pizza,12,3120.00
+The Classic Deluxe Pizza,12,3096.50
+The Hawaiian Pizza,12,2816.75
+The Four Cheese Pizza,12,2731.20
+The Spicy Italian Pizza,12,2708.75
+The Italian Supreme Pizza,12,2592.00
+The Southwest Chicken Pizza,12,2585.75
+The Sicilian Pizza,12,2571.75
+The Vegetables + Vegetables Pizza,12,2330.50
+The Pepperoni Pizza,12,2293.00
+The Italian Capocollo Pizza,12,2122.00
+The Greek Pizza,12,2109.45
+The Pepper Salami Pizza,12,2065.50
+The Mexicana Pizza,12,2030.75
+The Spinach and Feta Pizza,12,1897.25
+The Big Meat Pizza,12,1884.00
+The Prosciutto and Arugula Pizza,12,1847.75
+The Napolitana Pizza,12,1666.50
+The Five Cheese Pizza,12,1646.50
+"The Pepperoni, Mushroom, and Peppers Pizza",12,1414.50
+The Italian Vegetables Pizza,12,1383.25
+The Chicken Pesto Pizza,12,1373.50
+The Mediterranean Pizza,12,1363.50
+The Chicken Alfredo Pizza,12,1272.25
+The Spinach Supreme Pizza,12,1173.25
+The Spinach Pesto Pizza,12,1169.25
+The Soppressata Pizza,12,1157.50
+The Calabrese Pizza,12,1144.25
+The Green Garden Pizza,12,918.00
+The Brie Carre Pizza,12,827.75
